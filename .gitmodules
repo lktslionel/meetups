@@ -1,0 +1,3 @@
+[submodule "zenika-lille/20171213-intro-to-graphQL-API/demo"]
+	path = zenika-lille/20171213-intro-to-graphQL-API/demo
+	url = https://github.com/gdrouet/nightclazz-graphql.git
